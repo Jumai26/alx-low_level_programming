@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
-*main - executed and print the last digit of the number
-*Return: Always 0 (Success)
+* main - executed and print the last digit of the number
+* Return: Always 0 (Success)
 */
 int main(void)
 {
@@ -26,7 +26,7 @@ int main(void)
 	}
 	if (x < 6 && x != 0)
 	{
-		printf("and is less than 6 and not 0")
+		printf("and is less than 6 and not 0");
 	}
 
 	printf("\n");
